@@ -214,7 +214,7 @@ Last Updated: 03.07.2026
    You also have the right to lodge a complaint with the Dutch Data Protection Authority
    (Autoriteit Persoonsgegevens).
 11. Children’s Privacy
-    
+
    GoShow is not intended for users under the age of 16.
    We do not knowingly collect personal data from children under 16. If we become aware that
    such data has been collected, we will take steps to delete it.
