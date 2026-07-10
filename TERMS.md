@@ -9,16 +9,12 @@ Service provider: GoShow (“GoShow”, “we”, “us”, “our”)
 Jurisdiction: The Netherlands
 
 1. Introduction
-
 These Terms of Service (“Terms”) govern your access to and use of the GoShow mobile
 application, website, and related services (collectively, the “Service”).
 By accessing or using the Service, you agree to be bound by these Terms. If you do not agree,
 you may not use the Service.
 You must be at least 16 years old to use GoShow.
-
-
 2. Eligibility and Account Registration
-
 To use the Service, you must create an account and provide accurate and complete
 information.
 You agree that:
@@ -29,7 +25,6 @@ You are responsible for maintaining the confidentiality of your account credenti
 activities occurring under your account.
 We reserve the right to suspend or terminate accounts at our discretion where we believe
 these Terms have been violated.
-
 3. The Service
 
 GoShow is a social platform designed to connect users around concerts and live music
