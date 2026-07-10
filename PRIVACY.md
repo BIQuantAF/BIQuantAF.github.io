@@ -5,7 +5,6 @@ Effective Date: 06.07.2026
 Last Updated: 03.07.2026
 
 1. Introduction
-   
 Welcome to GoShow.
 GoShow (“GoShow”, “we”, “us”, or “our”) is a social platform that allows users to discover
 concerts, see who is attending, join communities, and communicate with other users.
