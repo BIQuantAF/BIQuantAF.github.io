@@ -31,7 +31,7 @@ Last Updated: 03.07.2026
 4. Information We Collect
    
    We collect different types of information depending on how you use the Service.
-4.1 Information You Provide
+   -4.1 Information You Provide
 
    When you create an account or use GoShow, we collect:
    
@@ -47,7 +47,7 @@ Last Updated: 03.07.2026
     post in communities
     report users or content
     contact support
-4.2 Content You Generate
+   -4.2 Content You Generate
 
    GoShow allows you to create and share content, including:
     Direct messages
@@ -56,7 +56,7 @@ Last Updated: 03.07.2026
     Reports and feedback
    All content you submit may be stored and processed to operate the Service.
    Important: Messages are not end-to-end encrypted.
-4.3 Information We Collect Automatically
+   -4.3 Information We Collect Automatically
 
    When you use the Service, we automatically collect technical and usage information.
    Device Information
@@ -90,7 +90,7 @@ Last Updated: 03.07.2026
    Authentication Data
     Authentication provider (email, Apple, Google)
     Firebase user ID
-4.4 Information We Do Not Collect (Currently)
+   -4.4 Information We Do Not Collect (Currently)
 
    We do not currently collect:
     Advertising identifiers
@@ -122,14 +122,14 @@ Last Updated: 03.07.2026
 6. Legal Bases for Processing (GDPR Article 6)
    
    We process your personal data under the following legal bases:
-6.1 Contractual Necessity
+   -6.1 Contractual Necessity
 
    Processing is necessary to provide the Service, including:
     account creation
     messaging
     community access
     core functionality
-6.2 Legitimate Interests
+   -6.2 Legitimate Interests
 
    We process data to:
     improve and optimise the Service
@@ -137,14 +137,14 @@ Last Updated: 03.07.2026
     analyse usage patterns
     maintain platform stability
    We ensure these interests do not override your fundamental rights.
-6.3 Consent
+   -6.3 Consent
 
    We rely on consent for:
     push notifications
     optional profile features (where applicable)
     future advertising or analytics expansions (if introduced)
    You may withdraw consent at any time.
-6.4 Legal Obligation
+   -6.4 Legal Obligation
 
    We may process data where required to comply with legal obligations.
 7. How We Share Your Information
@@ -152,7 +152,7 @@ Last Updated: 03.07.2026
    We do not sell your personal data.
    We may share your information with trusted third parties only as necessary to operate the
    Service:
-7.1 Service Providers
+   -7.1 Service Providers
 
    We use the following providers:
     Firebase Authentication – user authentication
@@ -165,13 +165,13 @@ Last Updated: 03.07.2026
     Google Sign-In – authentication
     Ticketmaster Discovery API – concert/event data
    These providers process data on our behalf under strict contractual agreements.
-7.2 Future Third Parties
+   -7.2 Future Third Parties
 
    We may introduce:
     RevenueCat (subscriptions)
     Google AdMob (advertising)
    If introduced, this Privacy Policy will be updated.
-7.3 Legal Requirements
+   -7.3 Legal Requirements
 
    We may disclose personal data if required to:
     comply with legal obligations
