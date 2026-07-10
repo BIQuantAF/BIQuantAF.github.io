@@ -108,7 +108,7 @@ Jurisdiction: The Netherlands
     We determine your behaviour poses a risk to other users or the Service
    Upon termination, all rights granted to you under these Terms will cease immediately.
 11. Fees and Monetisation
-    
+
    The Service is currently offered free of charge.
    We reserve the right to introduce monetisation in the future, including but not limited to:
     Subscription-based premium features
