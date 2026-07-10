@@ -5,28 +5,29 @@ Effective Date: 06.07.2026
 Last Updated: 03.07.2026
 
 1. Introduction
-Welcome to GoShow.
-GoShow (“GoShow”, “we”, “us”, or “our”) is a social platform that allows users to discover
-concerts, see who is attending, join communities, and communicate with other users.
-We are committed to protecting your privacy and handling your personal data in a transparent
-and secure manner.
-This Privacy Policy explains how we collect, use, share, and protect your personal data when
-you use our mobile application, website (if applicable), and related services (together, the
-“Service”).
-By using GoShow, you acknowledge that you have read and understood this Privacy Policy.
+
+   Welcome to GoShow.
+   GoShow (“GoShow”, “we”, “us”, or “our”) is a social platform that allows users to discover
+   concerts, see who is attending, join communities, and communicate with other users.
+   We are committed to protecting your privacy and handling your personal data in a transparent
+   and secure manner.
+   This Privacy Policy explains how we collect, use, share, and protect your personal data when
+   you use our mobile application, website (if applicable), and related services (together, the
+   “Service”).
+   By using GoShow, you acknowledge that you have read and understood this Privacy Policy.
 2. Scope and Applicability
    
-This Privacy Policy applies to all users of the Service.
-As GoShow is based in the Netherlands, we process personal data in accordance with the
-General Data Protection Regulation (EU) 2016/679 (“GDPR”) and applicable Dutch data
-protection laws.
+   This Privacy Policy applies to all users of the Service.
+   As GoShow is based in the Netherlands, we process personal data in accordance with the
+   General Data Protection Regulation (EU) 2016/679 (“GDPR”) and applicable Dutch data
+   protection laws.
 3. Data Controller
    
-For the purposes of the GDPR, the data controller responsible for your personal data is:
-GoShow
-Email: goshow.community@gmail.com
-If GoShow is incorporated as a legal entity in the future, this section may be updated
-accordingly.
+   For the purposes of the GDPR, the data controller responsible for your personal data is:
+   GoShow
+   Email: goshow.community@gmail.com
+   If GoShow is incorporated as a legal entity in the future, this section may be updated
+   accordingly.
 4. Information We Collect
    
 We collect different types of information depending on how you use the Service.
